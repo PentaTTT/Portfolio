@@ -170,7 +170,7 @@ header{
     transform: translateY(12px);
 }
 
-/* button menu anima */
+/* button menu animation */
 .open .navbar__icon{
     transform: translateX(-50px);
     background: transparent;
